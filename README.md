@@ -1,6 +1,6 @@
 ### Hi there, I'm Sneha Kumari 👋
 
-I am a Frontend developer working with React Js and React Native
+I am a frontend developer working with React Js and React Native
 
 ![Sneha's github stats](https://github-readme-stats.vercel.app/api?username=snehaKums&count_private=true&show_icons=true&hide_border=true&text_color=212E46&icon_color=3C5480&title_color=0B3480)
 
